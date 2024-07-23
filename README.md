@@ -40,9 +40,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Elevate your business with our blockchain development services. Get in touch today to start your project!
 
-- **Telegram**: [Telegram](https://web.telegram.org/a/)
 - **WhatsApp**: +923066303835
-- **Instagram**: [Instagram](https://www.instagram.com/chainsoft_officiall/)
 
 ## 🛒 How to Purchase
 
